@@ -1,0 +1,10 @@
+dist/
+build/
+.git/
+.venv/
+.*_cache/
+*.pyc
+__pycache__/
+*.egg-info/
+*.pyd
+*.cpp

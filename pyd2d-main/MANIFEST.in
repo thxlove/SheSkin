@@ -1,0 +1,3 @@
+include src/*.pyx
+include src/*.py
+include src/*.pyi
